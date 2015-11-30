@@ -20,5 +20,10 @@ namespace GitDemo
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
         }
+
+	    static void DoOtherStuff()
+	    {
+		    Console.WriteLine("Do other stuff");
+	    }
     }
 }
