@@ -11,5 +11,10 @@ namespace GitDemo
         static void Main(string[] args)
         {
         }
+
+        static void DoStuff()
+        {
+            Console.WriteLine("stuff");
+        }
     }
 }
