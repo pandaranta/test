@@ -24,6 +24,12 @@ namespace GitDemo
 	    static void DoOtherStuff()
 	    {
 		    Console.WriteLine("Do other stuff");
+		    Console.WriteLine("Do bransch stuff");
+	    }
+
+	    static void StuffyStuff()
+	    {
+		    Console.WriteLine("Stuffy Stuff");
 	    }
     }
 }
