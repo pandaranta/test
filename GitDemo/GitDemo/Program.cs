@@ -30,6 +30,8 @@ namespace GitDemo
 	    static void StuffyStuff()
 	    {
 		    Console.WriteLine("Stuffy Stuff");
-	    }
-    }
+			Console.WriteLine("Stuffy Stuff");
+
+		}
+	}
 }
