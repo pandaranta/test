@@ -19,6 +19,8 @@ namespace GitDemo
             Console.WriteLine("PANDA");
             Console.WriteLine("PANDOR");
             Console.WriteLine("PANDOR");
+            //ÄNDRAT TEXTEN
+            Console.WriteLine("");
         }
 
 	    static void DoOtherStuff()
