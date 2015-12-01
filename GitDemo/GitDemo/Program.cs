@@ -17,7 +17,7 @@ namespace GitDemo
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
             Console.WriteLine("PANDA");
-            Console.WriteLine("PANDPOR");
+            Console.WriteLine("PANDOR");
             Console.WriteLine("PANDOR");
         }
 
