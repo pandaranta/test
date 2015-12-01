@@ -30,14 +30,13 @@ namespace GitDemo
 	    static void StuffyStuff()
 	    {
 		    Console.WriteLine("Stuffy Stuff");
-			Console.WriteLine("Stuffy Stuff");
-
+			
 		}
 
         static void DoMeHappy()
         {
             Console.WriteLine("Do me Happy!");
             Console.WriteLine("Do me Happy!");
-        }
+		}
 	}
 }
