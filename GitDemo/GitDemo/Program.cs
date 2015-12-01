@@ -33,5 +33,10 @@ namespace GitDemo
 			Console.WriteLine("Stuffy Stuff");
 
 		}
+
+        static void DoMeHappy()
+        {
+            Console.WriteLine("Do me Happy!");
+        }
 	}
 }
