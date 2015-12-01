@@ -10,6 +10,12 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("stuff");
+
+            Console.WriteLine("stuff");
+            Console.WriteLine("stuff");
+            Console.WriteLine("stuff");
+            Console.WriteLine("stuff");
         }
 
         static void DoStuff()
@@ -25,13 +31,22 @@ namespace GitDemo
 	    {
 		    Console.WriteLine("Do other stuff");
 		    Console.WriteLine("Do bransch stuff");
-	    }
+		    Console.WriteLine("Do bransch stuff");
+		    Console.WriteLine("Do bransch stuff");
+		    Console.WriteLine("Do bransch stuff");
+        }
 
 	    static void StuffyStuff()
 	    {
 		    Console.WriteLine("Sebastien");
 
-            Console.WriteLine(      );
-		}
+            Console.WriteLine();
+
+            Console.WriteLine();
+
+            Console.WriteLine();
+
+            Console.WriteLine();
+        }
 	}
 }
