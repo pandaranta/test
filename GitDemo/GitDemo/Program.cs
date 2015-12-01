@@ -10,43 +10,33 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("stuff");
-
-            Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
         }
 
         static void DoStuff()
         {
             Console.WriteLine("stuff");
-            
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
-            Console.WriteLine("COOKIES");
+            Console.WriteLine("stuff");
+            Console.WriteLine("stuff");
         }
 
 	    static void DoOtherStuff()
 	    {
 		    Console.WriteLine("Do other stuff");
 		    Console.WriteLine("Do bransch stuff");
-		    Console.WriteLine("Do bransch stuff");
-		    Console.WriteLine("Do bransch stuff");
-		    Console.WriteLine("Do bransch stuff");
-        }
+	    }
 
 	    static void StuffyStuff()
 	    {
-		    Console.WriteLine("Sebastien");
+		    Console.WriteLine("Stuffy Stuff");
+			
 
-            Console.WriteLine();
+		}
 
-            Console.WriteLine();
+        static void MakeMeHappy()
+        {
 
-            Console.WriteLine();
-
-            Console.WriteLine();
         }
 	}
 }
