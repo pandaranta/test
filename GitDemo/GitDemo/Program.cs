@@ -15,10 +15,10 @@ namespace GitDemo
         static void DoStuff()
         {
             Console.WriteLine("stuff");
+            
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
+            Console.WriteLine("COOKIES");
         }
 
 	    static void DoOtherStuff()
@@ -29,14 +29,9 @@ namespace GitDemo
 
 	    static void StuffyStuff()
 	    {
-		    Console.WriteLine("Stuffy Stuff");
-			
-		}
+		    Console.WriteLine("Sebastien");
 
-        static void DoMeHappy()
-        {
-            Console.WriteLine("Do me Happy!");
-            Console.WriteLine("Do me Happy!");
+            Console.WriteLine(      );
 		}
 	}
 }
