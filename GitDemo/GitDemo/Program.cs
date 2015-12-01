@@ -18,7 +18,7 @@ namespace GitDemo
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
+            Console.WriteLine("PANDOR");
         }
 
 	    static void DoOtherStuff()
