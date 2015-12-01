@@ -15,8 +15,7 @@ namespace GitDemo
         static void DoStuff()
         {
             Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
+            
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
         }
@@ -30,7 +29,7 @@ namespace GitDemo
 	    static void StuffyStuff()
 	    {
 		    Console.WriteLine("Stuffy Stuff");
-			Console.WriteLine("Stuffy Stuff");
+			
 
 		}
 	}
