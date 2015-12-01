@@ -18,6 +18,7 @@ namespace GitDemo
             
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
+            Console.WriteLine("COOKIES");
         }
 
 	    static void DoOtherStuff()
