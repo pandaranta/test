@@ -17,9 +17,11 @@ namespace GitDemo
             Console.WriteLine("Testar lite nu");
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
-            Console.WriteLine("stuff");
+            Console.WriteLine("PANDA");
+            Console.WriteLine("PANDOR");
+            Console.WriteLine("PANDOR");
+            //ÄNDRAT TEXTEN
+            Console.WriteLine("");
         }
 
 	    static void DoOtherStuff()
@@ -31,8 +33,15 @@ namespace GitDemo
 	    static void StuffyStuff()
 	    {
 		    Console.WriteLine("Stuffy Stuff");
-			Console.WriteLine("Stuffy Stuff");
+	
 
 		}
+
+        static void MakeMeHappy()
+        {
+            Console.WriteLine("BÄRS!");
+            Console.WriteLine("BÄRS!");
+            Console.WriteLine("BÄRS!");
+        }
 	}
 }
