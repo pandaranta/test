@@ -43,5 +43,11 @@ namespace GitDemo
             Console.WriteLine("BÄRS!");
             Console.WriteLine("BÄRS!");
         }
+
+        static void GoingToBar()
+        {
+            Console.WriteLine("Order beer");
+            Console.WriteLine("Drink the beer");
+        }
 	}
 }
