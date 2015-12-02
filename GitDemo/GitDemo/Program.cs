@@ -14,6 +14,7 @@ namespace GitDemo
 
         static void DoStuff()
         {
+            Console.WriteLine("Testar lite nu");
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
             Console.WriteLine("stuff");
