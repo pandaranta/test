@@ -39,6 +39,8 @@ namespace GitDemo
         static void MakeMeHappy()
         {
             Console.WriteLine("BÄRS!");
+            Console.WriteLine("BÄRS!");
+            Console.WriteLine("BÄRS!");
         }
 	}
 }
